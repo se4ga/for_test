@@ -17,7 +17,7 @@
     "MG": "00000000-0000-0000-0000-000000000001",
     "TimeCollected": "5/11/2022, 8:18:03.509 AM",
     "ManagementGroupName": "AOI-00000000-0000-0000-0000-000000000000",
-    "payload_serviceData_permissionDelta_removedPermissions_s": "TOTOTOTO",
+    "data_request_parameters_operatingSystemVersion_s": "TOTOTOTO",
     "AccessList": "",
     "AccessMask": "",
     "AccessReason": "",
