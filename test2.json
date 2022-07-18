@@ -2,7 +2,7 @@
     {
         "TenantId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
         "SourceSystem": "OpsManager",
-        "TimeGenerated [UTC]": "6/24/2021, 8:13:52.101 AM",
+        "TimeGenerated": "6/24/2021, 8:13:52.101 AM",
         "ReceiptTime": "Feb 02 2014 16:57:47 Z",
         "DeviceVendor": "FireEye",
         "DeviceProduct": "MPS",
@@ -162,7 +162,7 @@
     {
         "TenantId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
         "SourceSystem": "OpsManager",
-        "TimeGenerated [UTC]": "6/24/2021, 9:17:42.181 AM",
+        "TimeGenerated": "6/24/2021, 9:17:42.181 AM",
         "ReceiptTime": "June 24 2021 11:57:47 Z",
         "DeviceVendor": "FireEye",
         "DeviceProduct": "MPS",
